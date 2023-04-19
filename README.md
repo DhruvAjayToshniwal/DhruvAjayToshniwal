@@ -1,5 +1,5 @@
 Dhruv Toshniwal
-📧 dhruvt@bu.edu | 🔗 LinkedIn | 🌐 www.dhruvtoshniwal.com
+🌐 www.dhruvtoshniwal.com
 
 🎓 Education
 Master of Science in Computer Science
